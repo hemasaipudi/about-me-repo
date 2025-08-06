@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<head>
+</head>
+<h2>PUDI HEMA SAI</h2>
+<body>
+<h2>About Me</h2>
+ <p>
+  My name is Pudi Hema Sai,I am currently pursuing BCA  in Aditya Degree College.<br>
+  My parents are Srinivas and Jaya lakshmi,I have a sibling Jaswanth pursuing Inter.<br>
+  I live in a joint family with 9 members.My hobbies are singing and gardening.<br>
+  My career Objective is to get a job in MNC company.
+</p>
+<h2>Hobbies</h2>
+<ul>
+<li>Singing</li>
+<li>Gardening</li>
+<li>Travelling</li>
+<li>Cooking</li>
+</ul>
+</body>
+</html>
